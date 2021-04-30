@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">933491783478-m7u1oqvijirugvhe9f02a5p8robkmk1m.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">933491783478</string>
+    <string name="google_api_key" translatable="false">AIzaSyA-8tzcSwvUq93RpfGrGOAzMU-zgA9YA1E</string>
+    <string name="google_app_id" translatable="false">1:933491783478:android:9c660b3aa63b055e1b6597</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA-8tzcSwvUq93RpfGrGOAzMU-zgA9YA1E</string>
+    <string name="google_storage_bucket" translatable="false">teleport-dev-cd588.appspot.com</string>
+    <string name="project_id" translatable="false">teleport-dev-cd588</string>
+</resources>
